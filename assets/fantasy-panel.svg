@@ -1,0 +1,40 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#080b12"/><stop offset="50%" stop-color="#101827"/><stop offset="100%" stop-color="#15100a"/></linearGradient>
+    <linearGradient id="gold" x1="0" x2="1"><stop offset="0%" stop-color="#8b5e34"/><stop offset="50%" stop-color="#f5d38a"/><stop offset="100%" stop-color="#6b4e2e"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000" flood-opacity=".6"/></filter>
+  </defs>
+  <rect width="1200" height="760" fill="url(#bg)"/>
+  <rect x="22" y="22" width="1156" height="716" rx="18" fill="none" stroke="url(#gold)" stroke-width="2" opacity=".75"/>
+  <g transform="translate(50 55)" filter="url(#shadow)">
+    <rect width="515" height="295" rx="14" fill="#0b1020" opacity=".82" stroke="#6b4e2e"/>
+    <text x="28" y="48" font-family="Georgia,serif" font-size="25" fill="#f5d38a">⚔ About Me</text>
+    <line x1="28" y1="68" x2="487" y2="68" stroke="#6b4e2e" opacity=".55"/>
+    <text x="28" y="110" font-family="Inter,Arial" font-size="18" fill="#e5e7eb">I turn ideas into products people enjoy using.</text>
+    <text x="28" y="145" font-family="Inter,Arial" font-size="18" fill="#e5e7eb">Backend-minded, product-driven, AI-curious.</text>
+    <text x="28" y="180" font-family="Inter,Arial" font-size="18" fill="#e5e7eb">I like systems that are useful, clean, and reliable.</text>
+    <g transform="translate(36 220)">
+      <text x="0" y="0" font-family="Inter,Arial" font-size="15" fill="#f5d38a">🗡 Problem Solver</text>
+      <text x="170" y="0" font-family="Inter,Arial" font-size="15" fill="#f5d38a">🛡 Product Builder</text>
+      <text x="0" y="42" font-family="Inter,Arial" font-size="15" fill="#f5d38a">✨ AI Enthusiast</text>
+      <text x="170" y="42" font-family="Inter,Arial" font-size="15" fill="#f5d38a">☁ Cloud Explorer</text>
+    </g>
+  </g>
+  <g transform="translate(595 55)" filter="url(#shadow)">
+    <rect width="555" height="295" rx="14" fill="#0b1020" opacity=".82" stroke="#6b4e2e"/>
+    <text x="28" y="48" font-family="Georgia,serif" font-size="25" fill="#f5d38a">🎒 Inventory · Tech Stack</text>
+    <line x1="28" y1="68" x2="527" y2="68" stroke="#6b4e2e" opacity=".55"/>
+    <g font-family="Inter,Arial" font-size="18" fill="#e5e7eb">
+      <text x="40" y="115">🐍 Python</text><text x="40" y="160">🔷 TypeScript</text><text x="40" y="205">⚛ React / Next.js</text><text x="40" y="250">🐘 PostgreSQL</text>
+      <text x="300" y="115">☁ AWS</text><text x="300" y="160">🐳 Docker</text><text x="300" y="205">🏗 Terraform</text><text x="300" y="250">🤖 OpenAI</text>
+    </g>
+  </g>
+  <g transform="translate(50 382)" filter="url(#shadow)">
+    <rect width="1100" height="260" rx="14" fill="#0b1020" opacity=".82" stroke="#6b4e2e"/>
+    <text x="28" y="48" font-family="Georgia,serif" font-size="25" fill="#f5d38a">🏰 Featured Quests</text>
+    <line x1="28" y1="68" x2="1072" y2="68" stroke="#6b4e2e" opacity=".55"/>
+    <g transform="translate(32 92)"><rect width="500" height="130" rx="12" fill="#14100b" stroke="#6b4e2e"/><text x="28" y="42" font-family="Georgia,serif" font-size="28" fill="#f5d38a">📒 Accountant</text><text x="28" y="75" font-family="Inter,Arial" font-size="16" fill="#e5e7eb">AI-native accounting platform for modern teams.</text><text x="28" y="104" font-family="Inter,Arial" font-size="14" fill="#cbd5e1">Next.js · TypeScript · PostgreSQL · AWS</text></g>
+    <g transform="translate(568 92)"><rect width="500" height="130" rx="12" fill="#0c1710" stroke="#6b4e2e"/><text x="28" y="42" font-family="Georgia,serif" font-size="28" fill="#f5d38a">🌳 Pomotree</text><text x="28" y="75" font-family="Inter,Arial" font-size="16" fill="#e5e7eb">Focus timer that grows trees while you work.</text><text x="28" y="104" font-family="Inter,Arial" font-size="14" fill="#cbd5e1">React Native · TypeScript · Firebase · Tailwind</text></g>
+  </g>
+  <g transform="translate(50 675)"><text x="0" y="0" font-family="Georgia,serif" font-size="24" fill="#f5d38a">“The best way to predict the future is to build it.”</text><text x="770" y="0" font-family="Inter,Arial" font-size="17" fill="#cbd5e1">Seattle, WA · Open to collaboration</text></g>
+</svg>
