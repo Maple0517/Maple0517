@@ -1,1 +1,67 @@
-<svg width="1200" height="1080" xmlns="http://www.w3.org/2000/svg"><rect width="1200" height="1080" fill="#080b12"/><text x="80" y="120" fill="#f5d38a" font-size="60">MAPLE</text></svg>
+<svg width="1200" height="1080" viewBox="0 0 1200 1080" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05070b"/><stop offset="0.55" stop-color="#0b1220"/><stop offset="1" stop-color="#160d08"/></linearGradient>
+<linearGradient id="gold" x1="0" x2="1"><stop stop-color="#8b5e34"/><stop offset="0.5" stop-color="#f5d38a"/><stop offset="1" stop-color="#6b4e2e"/></linearGradient>
+<filter id="sh"><feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000" flood-opacity="0.7"/></filter>
+</defs>
+<rect width="1200" height="1080" fill="url(#bg)"/>
+<path d="M0 245 L140 120 L260 260 L395 95 L545 260 L700 120 L830 275 L970 105 L1200 275 L1200 1080 L0 1080Z" fill="#0a1020" opacity="0.88"/>
+<path d="M0 315 L160 205 L310 320 L485 175 L630 330 L790 205 L920 335 L1070 230 L1200 320 L1200 1080 L0 1080Z" fill="#070a12" opacity="0.92"/>
+<rect x="18" y="18" width="1164" height="1044" rx="18" fill="none" stroke="url(#gold)" stroke-width="2"/>
+<rect x="34" y="34" width="1132" height="1012" rx="14" fill="none" stroke="#6b4e2e" opacity="0.55"/>
+<path d="M560 18 L600 44 L640 18" fill="none" stroke="url(#gold)" stroke-width="2"/>
+<path d="M560 1062 L600 1036 L640 1062" fill="none" stroke="url(#gold)" stroke-width="2"/>
+<g filter="url(#sh)">
+<rect x="50" y="66" width="1100" height="230" rx="12" fill="#080d17" opacity="0.86" stroke="#8b5e34"/>
+<path d="M135 92 L198 128 L186 214 L135 252 L84 214 L72 128Z" fill="#14100b" stroke="url(#gold)" stroke-width="4"/>
+<path d="M135 112 L178 137 L170 202 L135 228 L100 202 L92 137Z" fill="#182234" stroke="#6b4e2e" stroke-width="2"/>
+<text x="135" y="186" text-anchor="middle" font-family="Georgia,serif" font-size="58" font-weight="700" fill="#f5d38a">M</text>
+<text x="230" y="145" font-family="Georgia,serif" font-size="64" font-weight="700" letter-spacing="4" fill="#f5d38a">MAPLE</text>
+<text x="235" y="190" font-family="Segoe UI,Arial,sans-serif" font-size="24" fill="#e5e7eb">SDE @ AWS | Seattle, WA</text>
+<text x="235" y="228" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#aab4c3">Builder of AI-native products with clean UX</text>
+<text x="235" y="263" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#f5d38a">Code  /  Design  /  AI  /  Cloud</text>
+<rect x="55" y="258" width="150" height="18" rx="4" fill="#9f3030" stroke="#6b4e2e"/><text x="130" y="272" text-anchor="middle" font-family="Arial" font-size="12" fill="#fff">HP 100 / 100</text>
+<rect x="55" y="282" width="150" height="18" rx="4" fill="#2c72b8" stroke="#6b4e2e"/><text x="130" y="296" text-anchor="middle" font-family="Arial" font-size="12" fill="#fff">XP 2360 / 3200</text>
+<rect x="875" y="96" width="225" height="150" rx="10" fill="#100c08" stroke="#8b5e34"/>
+<text x="904" y="136" font-family="Georgia,serif" font-size="22" fill="#f5d38a">Current Quest</text>
+<line x1="902" y1="154" x2="1070" y2="154" stroke="#6b4e2e"/>
+<text x="904" y="187" font-family="Arial" font-size="15" fill="#e5e7eb">Build useful things that</text>
+<text x="904" y="211" font-family="Arial" font-size="15" fill="#e5e7eb">create real impact.</text>
+<rect x="904" y="226" width="160" height="10" rx="3" fill="#080b12" stroke="#6b4e2e"/>
+<rect x="906" y="228" width="122" height="6" rx="2" fill="#c4944c"/>
+<text x="1040" y="219" font-family="Arial" font-size="13" fill="#f5d38a">75%</text>
+</g>
+<g filter="url(#sh)">
+<rect x="50" y="330" width="405" height="260" rx="10" fill="#090d18" stroke="#6b4e2e"/>
+<text x="78" y="372" font-family="Georgia,serif" font-size="25" font-weight="700" fill="#f5d38a">About Me</text><line x1="78" y1="392" x2="425" y2="392" stroke="#6b4e2e"/>
+<text x="78" y="435" font-family="Arial" font-size="17" fill="#e5e7eb">I turn ideas into products people enjoy using.</text>
+<text x="78" y="468" font-family="Arial" font-size="17" fill="#e5e7eb">Backend-minded, product-driven, AI-curious.</text>
+<text x="78" y="501" font-family="Arial" font-size="17" fill="#e5e7eb">I like systems that are useful and reliable.</text>
+<text x="92" y="555" font-family="Arial" font-size="14" fill="#f5d38a">Problem Solver</text><text x="248" y="555" font-family="Arial" font-size="14" fill="#f5d38a">Product Builder</text>
+<text x="92" y="580" font-family="Arial" font-size="14" fill="#f5d38a">AI Enthusiast</text><text x="248" y="580" font-family="Arial" font-size="14" fill="#f5d38a">Cloud Explorer</text>
+<rect x="475" y="330" width="330" height="260" rx="10" fill="#090d18" stroke="#6b4e2e"/>
+<text x="503" y="372" font-family="Georgia,serif" font-size="25" font-weight="700" fill="#f5d38a">Inventory</text><line x1="503" y1="392" x2="778" y2="392" stroke="#6b4e2e"/>
+<text x="523" y="435" font-family="Arial" font-size="17" fill="#e5e7eb">Python</text><text x="523" y="473" font-family="Arial" font-size="17" fill="#e5e7eb">TypeScript</text><text x="523" y="511" font-family="Arial" font-size="17" fill="#e5e7eb">React / Next.js</text><text x="523" y="549" font-family="Arial" font-size="17" fill="#e5e7eb">PostgreSQL</text>
+<text x="665" y="435" font-family="Arial" font-size="17" fill="#e5e7eb">AWS</text><text x="665" y="473" font-family="Arial" font-size="17" fill="#e5e7eb">Docker</text><text x="665" y="511" font-family="Arial" font-size="17" fill="#e5e7eb">Terraform</text><text x="665" y="549" font-family="Arial" font-size="17" fill="#e5e7eb">OpenAI</text>
+<rect x="827" y="330" width="325" height="260" rx="10" fill="#090d18" stroke="#6b4e2e"/>
+<text x="855" y="372" font-family="Georgia,serif" font-size="25" font-weight="700" fill="#f5d38a">Character Stats</text><line x1="855" y1="392" x2="1124" y2="392" stroke="#6b4e2e"/>
+<polygon points="990,425 1070,470 1040,545 940,545 910,470" fill="#2b124f" opacity="0.45" stroke="#8b5cf6"/>
+<line x1="990" y1="425" x2="990" y2="545" stroke="#4c1d95"/><line x1="910" y1="470" x2="1070" y2="470" stroke="#4c1d95"/>
+<text x="990" y="417" text-anchor="middle" font-family="Arial" font-size="13" fill="#e5e7eb">Backend 95</text><text x="1076" y="475" font-family="Arial" font-size="13" fill="#e5e7eb">System 90</text><text x="1048" y="562" font-family="Arial" font-size="13" fill="#e5e7eb">AI 85</text><text x="930" y="562" text-anchor="end" font-family="Arial" font-size="13" fill="#e5e7eb">Cloud 85</text><text x="904" y="475" text-anchor="end" font-family="Arial" font-size="13" fill="#e5e7eb">Product 85</text>
+</g>
+<g filter="url(#sh)">
+<rect x="50" y="615" width="1100" height="225" rx="10" fill="#090d18" stroke="#6b4e2e"/>
+<text x="78" y="655" font-family="Georgia,serif" font-size="25" font-weight="700" fill="#f5d38a">Featured Projects</text><line x1="78" y1="675" x2="1120" y2="675" stroke="#6b4e2e"/>
+<rect x="80" y="702" width="500" height="105" rx="10" fill="#160b0b" stroke="#8b5e34"/><text x="108" y="744" font-family="Georgia,serif" font-size="26" fill="#f5d38a">Accountant</text><text x="108" y="772" font-family="Arial" font-size="14" fill="#e5e7eb">AI-native accounting platform for modern teams.</text><text x="108" y="794" font-family="Arial" font-size="13" fill="#aab4c3">Next.js · TypeScript · PostgreSQL · AWS</text>
+<rect x="620" y="702" width="500" height="105" rx="10" fill="#071709" stroke="#8b5e34"/><text x="648" y="744" font-family="Georgia,serif" font-size="26" fill="#f5d38a">Pomotree</text><text x="648" y="772" font-family="Arial" font-size="14" fill="#e5e7eb">Focus timer that grows trees while you work.</text><text x="648" y="794" font-family="Arial" font-size="13" fill="#aab4c3">React Native · TypeScript · Firebase · Tailwind</text>
+</g>
+<g filter="url(#sh)">
+<rect x="50" y="865" width="290" height="135" rx="10" fill="#090d18" stroke="#6b4e2e"/><text x="78" y="900" font-family="Georgia,serif" font-size="21" fill="#f5d38a">Achievements</text><text x="78" y="935" font-family="Arial" font-size="14" fill="#e5e7eb">Shipped multiple products</text><text x="78" y="962" font-family="Arial" font-size="14" fill="#e5e7eb">Always learning, always building</text><text x="78" y="989" font-family="Arial" font-size="14" fill="#e5e7eb">Product-minded engineering</text>
+<rect x="365" y="865" width="445" height="135" rx="10" fill="#090d18" stroke="#6b4e2e"/><text x="392" y="900" font-family="Georgia,serif" font-size="21" fill="#f5d38a">GitHub Stats</text>
+<rect x="392" y="925" width="80" height="50" rx="6" fill="#151a2a" stroke="#6b4e2e"/><text x="432" y="946" text-anchor="middle" font-family="Arial" font-size="13" fill="#f5d38a">Repos</text><text x="432" y="968" text-anchor="middle" font-family="Arial" font-size="18" fill="#e5e7eb">57</text>
+<rect x="492" y="925" width="80" height="50" rx="6" fill="#151a2a" stroke="#6b4e2e"/><text x="532" y="946" text-anchor="middle" font-family="Arial" font-size="13" fill="#f5d38a">Stars</text><text x="532" y="968" text-anchor="middle" font-family="Arial" font-size="18" fill="#e5e7eb">312</text>
+<rect x="592" y="925" width="95" height="50" rx="6" fill="#151a2a" stroke="#6b4e2e"/><text x="640" y="946" text-anchor="middle" font-family="Arial" font-size="13" fill="#f5d38a">Followers</text><text x="640" y="968" text-anchor="middle" font-family="Arial" font-size="18" fill="#e5e7eb">86</text>
+<rect x="835" y="865" width="315" height="135" rx="10" fill="#090d18" stroke="#6b4e2e"/><text x="862" y="900" font-family="Georgia,serif" font-size="21" fill="#f5d38a">Trophies</text><text x="880" y="945" font-family="Georgia,serif" font-size="30" fill="#f5d38a">◇  ◇  ◇  ◇</text><text x="880" y="982" font-family="Georgia,serif" font-size="30" fill="#f5d38a">◇  ◇  ◇</text>
+</g>
+<text x="600" y="1040" text-anchor="middle" font-family="Georgia,serif" font-size="25" fill="#d8c6ff">The best way to predict the future is to build it.</text>
+</svg>
