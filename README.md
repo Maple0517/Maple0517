@@ -11,10 +11,6 @@
 
 I'm a software engineer building practical, AI-native products with clean UX and real-world workflows.
 
-- 🧾 Building **Accountant** — personal finance automation with Plaid, Supabase, Notion sync, and AI-assisted workflows
-- 🌳 Building **Pomotree** — a local-first Pomodoro + task app for focused work
-- ⚙️ I like shipping full-stack products end-to-end: data model, UI, deployment, and production verification
-
 ## Featured projects
 
 <table>
