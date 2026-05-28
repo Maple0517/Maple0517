@@ -7,14 +7,13 @@
   <a href="https://github.com/Maple0517/Pomotree"><img src="https://img.shields.io/badge/Pomotree-Focus%20Builder-22c55e?style=for-the-badge&logo=github" alt="Pomotree" /></a>
 </p>
 
-## Hey, I'm Maple
+## Hey, there
 
 I'm a software engineer building practical, AI-native products with clean UX and real-world workflows.
 
 - 🧾 Building **Accountant** — personal finance automation with Plaid, Supabase, Notion sync, and AI-assisted workflows
 - 🌳 Building **Pomotree** — a local-first Pomodoro + task app for focused work
 - ⚙️ I like shipping full-stack products end-to-end: data model, UI, deployment, and production verification
-- ☁️ SDE @ AWS
 
 ## Featured projects
 
