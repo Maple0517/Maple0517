@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-rpg.svg" alt="Maple GitHub RPG profile dashboard" width="100%" />
+<img src="./assets/profile-rpg.png" alt="Maple GitHub RPG profile dashboard" width="100%" />
 
 <br />
 
