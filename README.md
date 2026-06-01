@@ -1,47 +1,40 @@
 <div align="center">
 
-<picture>
-  <img src="./assets/tech-profile.svg" alt="Maple — modern software builder profile banner" width="100%" />
-</picture>
+# Maple0517
 
-<br />
+**Full-stack builder · automation tinkerer · AI-native product maker**
 
-<a href="https://github.com/Maple0517/accountant"><img alt="Accountant" src="https://img.shields.io/badge/Accountant-AI%20Finance%20Ops-9DECF9?style=for-the-badge&labelColor=080A12&color=9DECF9" /></a>
-<a href="https://github.com/Maple0517/Pomotree"><img alt="Pomotree" src="https://img.shields.io/badge/Pomotree-Focus%20System-B8F7D4?style=for-the-badge&labelColor=080A12&color=B8F7D4" /></a>
+[![Accountant](https://img.shields.io/badge/Accountant-AI%20Finance%20Ops-7aa2f7?style=for-the-badge&labelColor=1a1b27)](https://github.com/Maple0517/accountant)
+[![Pomotree](https://img.shields.io/badge/Pomotree-Focus%20System-9ece6a?style=for-the-badge&labelColor=1a1b27)](https://github.com/Maple0517/Pomotree)
 
 </div>
 
----
+## About
 
-### Building calm, useful systems with a sharp edge.
+I build practical software that feels fast, calm, and useful.
 
-I like products that feel fast, precise, and quietly powerful — from AI-assisted finance workflows to local-first focus tools.
+- Working on [`accountant`](https://github.com/Maple0517/accountant): AI-assisted personal finance workflows.
+- Building [`Pomotree`](https://github.com/Maple0517/Pomotree): local-first focus tooling for macOS.
+- Interested in product systems, automation, clean interfaces, and reliable full-stack architecture.
 
-- **Currently shaping:** [`accountant`](https://github.com/Maple0517/accountant), an AI-native personal finance workspace.
-- **Also building:** [`Pomotree`](https://github.com/Maple0517/Pomotree), a local-first focus app with a calmer productivity loop.
-- **Taste:** minimal interfaces, reliable automation, pragmatic architecture, and details that make software feel alive.
-
-<div align="center">
-
-```txt
-product intuition  ×  full-stack engineering  ×  automation systems
-```
-
-</div>
-
-### Core stack
+## Tech stack
 
 `TypeScript` · `Next.js` · `React` · `Tauri` · `Rust` · `Supabase` · `Postgres` · `AI tooling` · `macOS automation`
 
-### Featured work
-
-| Project | Direction | Signal |
-| --- | --- | --- |
-| [`accountant`](https://github.com/Maple0517/accountant) | AI-assisted finance operations, transaction intelligence, personal data workflows | Practical automation with production-minded UX |
-| [`Pomotree`](https://github.com/Maple0517/Pomotree) | Focus timer, task loops, macOS menubar experience, local-first productivity | Calm interface, native-feeling details |
+## GitHub stats
 
 <div align="center">
 
-<a href="https://github.com/Maple0517?tab=repositories"><img alt="Explore repositories" src="https://img.shields.io/badge/Explore%20repositories-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maple0517&theme=tokyonight" alt="Maple0517 contribution graph" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maple0517&theme=tokyonight" alt="Maple0517 GitHub stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maple0517&theme=tokyonight&utcOffset=8" alt="Maple0517 productive time" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maple0517&theme=tokyonight" alt="Repositories per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maple0517&theme=tokyonight" alt="Most committed languages" />
+
+<img width="98%" src="https://streak-stats.demolab.com?user=Maple0517&theme=tokyonight&hide_border=true" alt="Maple0517 GitHub streak" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Maple0517&theme=tokyo-night&hide_border=true&area=true" alt="Maple0517 activity graph" />
 
 </div>
