@@ -13,7 +13,7 @@
 ## Selected work
 
 - [`accountant`](https://github.com/Maple0517/accountant) — finance ops
-- [`Pomotree`](https://github.com/Maple0517/Pomotree) — local-first focus
+- [`Pomotree`](https://github.com/Maple0517/Pomotree) — yet another focus app for MacOS
 - [`reader-next`](https://github.com/Maple0517/reader-next) — reading + AI
 
 ## Stack
