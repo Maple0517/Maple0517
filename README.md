@@ -1,40 +1,56 @@
 <div align="center">
 
-# Maple0517
+# Hi, I'm Maple.
 
-**Full-stack builder · automation tinkerer · AI-native product maker**
+### I build small, durable software for personal systems.
 
-[![Accountant](https://img.shields.io/badge/Accountant-AI%20Finance%20Ops-7aa2f7?style=for-the-badge&labelColor=1a1b27)](https://github.com/Maple0517/accountant)
-[![Pomotree](https://img.shields.io/badge/Pomotree-Focus%20System-9ece6a?style=for-the-badge&labelColor=1a1b27)](https://github.com/Maple0517/Pomotree)
+Finance automation · local-first macOS tools · reading workflows · AI infrastructure
+
+[![Accountant](https://img.shields.io/badge/Accountant-AI%20finance%20ops-7aa2f7?style=for-the-badge&labelColor=111827)](https://github.com/Maple0517/accountant)
+[![Pomotree](https://img.shields.io/badge/Pomotree-local--first%20focus-9ece6a?style=for-the-badge&labelColor=111827)](https://github.com/Maple0517/Pomotree)
+[![Reader Next](https://img.shields.io/badge/Reader%20Next-reading%20%2B%20AI-f7768e?style=for-the-badge&labelColor=111827)](https://github.com/Maple0517/reader-next)
 
 </div>
 
-## About
+---
 
-I build practical software that feels fast, calm, and useful.
+## What I'm building
 
-- Working on [`accountant`](https://github.com/Maple0517/accountant): AI-assisted personal finance workflows.
-- Building [`Pomotree`](https://github.com/Maple0517/Pomotree): local-first focus tooling for macOS.
-- Interested in product systems, automation, clean interfaces, and reliable full-stack architecture.
+| Project | What it is | Focus |
+| --- | --- | --- |
+| [`accountant`](https://github.com/Maple0517/accountant) | AI-assisted personal finance workflows | portfolio tracking, reports, decision support |
+| [`Pomotree`](https://github.com/Maple0517/Pomotree) | Local-first focus app for macOS | calm productivity, timeline UX, native packaging |
+| [`reader-next`](https://github.com/Maple0517/reader-next) | Independent continuation of Reader | reading systems, AI workflows, reliable deployment |
+| [`Sub2APIStatusBar`](https://github.com/Maple0517/Sub2APIStatusBar) | macOS menu bar monitor for API usage | small utilities, fast feedback, operational visibility |
 
-## Tech stack
+## How I like to build
 
-`TypeScript` · `Next.js` · `React` · `Tauri` · `Rust` · `Supabase` · `Postgres` · `AI tooling` · `macOS automation`
+- **Practical first**: ship tools that solve real daily problems.
+- **Local-first when possible**: keep data close, fast, and portable.
+- **Automation with guardrails**: useful bots should be observable and fail safely.
+- **Calm interfaces**: fewer knobs, clearer states, faster paths.
+- **Boring infra, sharp edges**: simple deployment, explicit APIs, easy debugging.
 
-## GitHub stats
+## Stack I reach for
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=111827" />
+  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+## Current direction
+
+I'm most interested in software that quietly compounds: personal finance systems, reading and knowledge workflows, AI-powered operators, and native tools that remove friction from everyday work.
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maple0517&theme=tokyonight" alt="Maple0517 contribution graph" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maple0517&theme=tokyonight" alt="Maple0517 GitHub stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maple0517&theme=tokyonight&utcOffset=8" alt="Maple0517 productive time" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maple0517&theme=tokyonight" alt="Repositories per language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maple0517&theme=tokyonight" alt="Most committed languages" />
-
-<img width="98%" src="https://streak-stats.demolab.com?user=Maple0517&theme=tokyonight&hide_border=true" alt="Maple0517 GitHub streak" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Maple0517&theme=tokyo-night&hide_border=true&area=true" alt="Maple0517 activity graph" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maple0517&theme=tokyonight" alt="Maple0517 GitHub contribution summary" />
 
 </div>
